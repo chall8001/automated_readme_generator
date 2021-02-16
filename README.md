@@ -1,1 +1,0 @@
-# automated_readme_generator
